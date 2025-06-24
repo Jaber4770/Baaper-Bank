@@ -6,7 +6,7 @@ A simple and playful mock-banking web application that's fun to use and perfect 
 
 ---
 
-## 🔍 Project Overview (সংক্ষেপে)
+## 🔍 Project Overview
 
 Baaper Bank is a front-end-only banking interface where users can log in (use `sontan@baap.com` / `secret`), view a friendly welcome screen, and simulate simple "banking" actions. It showcases UI interaction without any backend logic.
 
